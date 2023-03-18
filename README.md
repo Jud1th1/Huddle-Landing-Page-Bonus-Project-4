@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/Jud1th1/Huddle-Landing-Page-Bonus-Project-4/tree/main
+- Live Site URL: https://huddlelandingpg.netlify.app/
 
 ## My process
 - I started off by arranging my html properties, adding an external stylesheet and downloading my Googlefonts according to the style-guide. Then I added my logo to the html and worked from there to using flexbox for the main section with the image and button. 
